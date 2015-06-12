@@ -1,6 +1,6 @@
 set backspace=2
 set nocp ts=4 sw=4 noet ai cin bs=2 cb=unnamed
-set scrolloff=8 " Keep 3 lines below and above the cursor
+set scrolloff=8
 set number ruler wrap autoread showcmd showmode fdm=marker nobackup
 syntax on
 filetype on
